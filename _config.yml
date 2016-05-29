@@ -1,18 +1,18 @@
-typography_spectrum: 0.7980688572861254
+typography_spectrum: 0.10430038440972567
 content_rating:
   adult: false
 color:
-  brandStrength: 0.22021486447192729
-  lightness: 0.6931967290583998
-  saturation: 0.30383836361579597
-  rhythmicContrast: 0.2998387839179486
+  brandStrength: 0.5516189942136407
+  lightness: 0.4708899697288871
+  saturation: 0.23049911414273083
+  rhythmicContrast: 0.7562316115945578
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-layout_spectrum: 0.38139641052111983
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+layout_spectrum: 0.4869826049543917
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa37de8-ddbe-4683-be1f-fab2724ecf0e.png'
 name: Playful Ears
 title: Adventurous Ear Wear
